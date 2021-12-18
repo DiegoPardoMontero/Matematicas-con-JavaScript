@@ -1,0 +1,6 @@
+Preguntas:
+
+¿Qué es una variable y para qué sirve?
+¿Cuál es la diferencia entre declarar e inicializar una variable?
+¿Cuál es la diferencia entre sumar números y concatenar strings?
+¿Cuál operador me permite sumar o concatenar?
