@@ -4,3 +4,8 @@ Preguntas:
 ¿Cuál es la diferencia entre declarar e inicializar una variable?
 ¿Cuál es la diferencia entre sumar números y concatenar strings?
 ¿Cuál operador me permite sumar o concatenar?
+
+- Una variable es un espacio en memoria que sirve para almacenar un dato.
+- Cuando declaras una variable en js, indicas si es const, var o let, lo cual depende del scope, y luego asignas su nombre. Simplementea queda reservado un espacio en memoria con un nombre que tú entiendes como desarrollador, para luego asignarle algún valor. Por otra parte, inicializar una variable es darle un valor de inicio, como resulta intuitivo. Por ejemplo, comenzar un contador en 0 o un string con los caracteres que queramos.
+- Cuando sumamos números realizamos una operación **aritmética** lo que quiere decir que los valores se suman, mientras que al concatenar strings, se están sumando caracteres en una nueva cadena, pero no existe ninguna operación matemática pura.
+- El “+”.
