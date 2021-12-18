@@ -1,0 +1,9 @@
+Preguntas:
+
+¿Qué es una condicional?
+¿Qué tipos de condicionales existen en JavaScript y cuáles son sus diferencias?
+¿Puedo combinar funciones y condicionales?
+
+- Un condicional sirve para verificar que se cumplan ciertas condiciones para la planeada ejecución del programa.
+- If, else, else if y switch. If, verifica si una condición se cumple. Else, siempre va después de un if o un else if, y quiere decir lo opuesto, "todo aquello que no cumpla con el if". Else if es un poco menos totalizador, también va después de un if y quiere decir que no se cumplió el if, pero para que ejecute su bloque de código tiene que cumplirse otro if. Switch es una forma de tener varios if else de forma simplificada o con una sintaxis más sencilla.
+- Sí, se pueden utilizar condicionales en las funciones o, dependiendo de un condicional, ejecutar o no una función. 
