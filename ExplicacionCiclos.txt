@@ -1,0 +1,11 @@
+Preguntas:
+
+¿Qué es un ciclo?
+¿Qué tipos de ciclos existen en JavaScript?
+¿Qué es un ciclo infinito y por qué es un problema?
+¿Puedo mezclar ciclos y condicionales?
+
+- Un ciclo es una herramienta que sirve para ejecutar un bloque de código múltiples veces.
+- For, While y Do-While. Aunque existen variaciones del ciclo for, como For each o For of.
+- Es un problema puesto que no pararía de ejecutarse nunca un programa y un programa siempre debe tener fin. 
+- Sí, puedes hacer que en un ciclo se evalúe múltiples veces una condición y que dependiendo de una condición, se ejecute un ciclo o no. 
