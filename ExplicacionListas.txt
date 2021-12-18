@@ -1,0 +1,11 @@
+Preguntas:
+
+¿Qué es un array?
+¿Qué es un objeto?
+¿Cuándo es mejor usar objetos o arrays?
+¿Puedo mezclar arrays con objetos o incluso objetos con arrays?
+
+- Un array es un conjunto de datos del mismo tipo ordenados secuencialmente.
+- Un objeto refiere a cualquier representación de la vida real que contiene atributos únicos. 
+- Es mejor usar objetos para ejemplificar entidades del mundo real o abstractos y arrays para guardar datos del mismo tipo.
+- Sí, se puede crear un array que contenga en cada posición un objeto de la misma clase o un objeto que contenga un array como uno de sus atributos.
