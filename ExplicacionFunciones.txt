@@ -1,0 +1,9 @@
+Preguntas:
+
+¿Qué es una función?
+¿Cuándo me sirve usar una función en mi código?
+¿Cuál es la diferencia entre parámetros y argumentos de una función?
+
+- Una función es una pieza de código que recibe parámetros y tiene un objetivo claro. También puede retornar un valor, una vez termina. 
+- Sirve para hacer el código reutilizable, más claro y menos repetitivo. Además, en JavaScript, se puede inicializar una variable mediante una función y su valor de retorno.
+- Los parámetros son aquellas variables que se declaran en la función para recibir que se usarán en ese conjunto de instrucciones, mientras que los argumentos son los valores que esas variables toman cuando se ejecuta el código de la función. 
