@@ -1,4 +1,4 @@
-# TalleresJavaScript
+# Talleres JavaScript
 - Creado para el curso práctico de JavaScript en Platzi
 ... 
 ## Taller 1: figuras geométricas
